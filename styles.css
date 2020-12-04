@@ -22,6 +22,7 @@ ul {
 }
 li {   
     padding: 12px;
+    font-weight: bold;
 }
 
 a {
@@ -35,8 +36,9 @@ button{
     padding: 12px;
     border-radius: 10px;
     border-color: #20a8b4;
+    border: none;
     width: 100%;
-    font-family: 'Roboto', sans-serif;
+    font-family: inherit;
     color: #fff;
     background-color: #20a8b4;
 }
